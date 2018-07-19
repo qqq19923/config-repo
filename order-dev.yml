@@ -12,7 +12,5 @@ spring:
     url: jdbc:mysql://127.0.0.1:3306/springcloud_shop?characterEncoding=utf-8&useSSL=false
   jpa:
     show-sql: true
-server:
-  port: 8081
 env:
   dev
